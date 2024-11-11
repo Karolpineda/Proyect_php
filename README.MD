@@ -1,4 +1,4 @@
-# Hello with pho
+# Hello with php
 ## 🥇Scope
 <p align="center">
     <img src="./materials/results_php.png" alt="Hello from javascript">
